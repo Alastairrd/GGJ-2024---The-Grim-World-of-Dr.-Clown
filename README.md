@@ -1,6 +1,6 @@
 # JamSmiths2024
 
-For anyone wondering why it's a mess, for most of us it was a first time using unity, and we had many issues dealing with merge conflicts in the unity project files.
+For anyone wondering about the mess of packages, for most of us it was a first time using unity, and we had many issues dealing with merge conflicts in the unity project files.
 We managed to put this repo to great use as a tool for sharing the assets and packages of updates, and successfully made for many of us our first game, within the 48 hours.
 
 
